@@ -1,0 +1,5 @@
+C:/Qt/ModellingaSpacecraft/build-ModellingaSpacecraft-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/ModellingaSpacecraft.dir
+C:/Qt/ModellingaSpacecraft/build-ModellingaSpacecraft-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Qt/ModellingaSpacecraft/build-ModellingaSpacecraft-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/ModellingaSpacecraft/build-ModellingaSpacecraft-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/ModellingaSpacecraft_autogen_timestamp_deps.dir
+C:/Qt/ModellingaSpacecraft/build-ModellingaSpacecraft-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/ModellingaSpacecraft_autogen.dir
